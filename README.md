@@ -11,4 +11,9 @@ npx hardhat run src/server.ts --network localhost
 
 npx hardhat run src/index.ts --network localhost
 
+## fluxo
+
+![flow](https://github.com/marciogsantana/imagens/blob/main/fluxo.png)  
+
+
 
